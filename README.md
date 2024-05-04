@@ -6,7 +6,7 @@ Except for the original dataset, the work can be reused as open-access.
 
 ## Repository structure  
 The **computer vision** part was initially branched from  **CVPR_Coursework_2021**:  
-- [CVPR_Coursework_2021](https://github.com/YaChienChang/Neural-Lyapunov-Control)  
+- [CVPR_Coursework_2021](https://github.com/Xinyang-S/CVPR_Coursework_2021)  
 
   
 With respect to Xinyang and Yuancheng's work, our CV upgrades consist of:
